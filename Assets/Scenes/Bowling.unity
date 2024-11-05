@@ -971,7 +971,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Sacebar: Charge up throw
+  m_text: 'Spacebar: Charge up throw
 
     Mouse Right Click/Drag: Place ball at position
 
